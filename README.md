@@ -1,6 +1,8 @@
 # Project-Spellcaster
 A project that aims to have a fast and agile spellcasting mechanic with dozens of spells
 
+YOU CAN REACH A VIDEO ASSOCIATED WITH A RELEASE IN THE RELEASES TAB, SHOWING OFF THE NEW MECHANICS OR FEATURES
+
 -----------------------
 
 The source files in the github page doesn't contain all the files that you need to launch the project successfully. You can check the scripts though, most of them are in the files uploaded. 
