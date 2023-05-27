@@ -12,6 +12,6 @@ CONTROLS
 Right click to move to a position,
 * Q to use a fireball on mouse position,
 * W to use a lightning bolt on mouse direction,
-* E to use a grease on mouse direction.
+* E to use a grease on mouse position.
 
 Grease spell has the flag "oil", and Fireball has the flag "fire". If you make two collide with each other, some effects may appear like burning oil, which causes the Living layered characters touching the oil to burn.
